@@ -1,0 +1,15 @@
+.primary-btn {
+    background: blue;
+    color: #fff;
+    height: 50px;
+    width: 100px;
+    cursor: pointer;
+    box-shadow: none;
+    border: none;
+    border-radius: 5px;
+}
+.font {
+    text-align: center;
+    color: red;
+    height: 50px;
+}
